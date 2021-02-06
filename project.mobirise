@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Rainbow Kids Play Therapy",
-    "currentPage": "about.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -50,14 +50,14 @@
     "imageResize": true,
     "screenshot": "screenshot.png",
     "favicon": false,
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
+    "robotsSwitcher": true,
+    "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
-    "siteUrl": false,
+    "siteUrl": "https://rainbowkidspt.com",
     "cookiesAlert": false,
     "gdpr": false,
-    "mbrsiteDomain": "a6yachabze",
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n"
+    "mbrsiteDomain": "vqrdmedt0l",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n"
   },
   "pages": {
     "about.html": {
@@ -3107,7 +3107,8 @@
     "location.html": {
       "settings": {
         "title": "Location - Rainbow Kids Play Therapy",
-        "order": 4
+        "order": 4,
+        "meta_descr": ""
       },
       "components": [
         {
@@ -3753,7 +3754,7 @@
       "settings": {
         "main": true,
         "title": "Home - Rainbow Kids Play Therapy",
-        "meta_descr": "",
+        "meta_descr": "A place of hope and healing for children.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
