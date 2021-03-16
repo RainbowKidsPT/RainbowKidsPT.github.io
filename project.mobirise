@@ -58,15 +58,16 @@
     "siteUrl": "https://rainbowkidspt.com",
     "cookiesAlert": false,
     "gdpr": false,
-    "mbrsiteDomain": "1nzfkehrm8",
+    "mbrsiteDomain": "fpx8joh3td",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
-    "google-analytics": "<link rel=\"canonical\" href=\"https://rainbowkidspt.com/\" />"
+    "google-analytics": "<link rel=\"canonical\" href=\"https://rainbowkidspt.com/\" />\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-C6T127MDWZ\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-C6T127MDWZ');\n</script>"
   },
   "pages": {
     "about.html": {
       "settings": {
         "title": "About Me - Rainbow Kids Play Therapy",
-        "order": 12
+        "order": 12,
+        "meta_descr": "Rainbow Kids Play Therapy is a place of hope and healing for children. Children who suffer from social, emotional or behavioral difficulties can seek help from play therapists instead of psychiatrists or psychologists. Research shows that 77% - 84% of children show a positive change through the use of creative arts and play therapy when delivered by trained play therapists. Our play therapist is certified by Play Therapy International and have dealt with different kinds of children issues. She is also also a trained counselor who knows how to advise parents how to support their children at home. "
       },
       "components": [
         {
@@ -947,7 +948,8 @@
     "pt.html": {
       "settings": {
         "title": "Play Therapy - Rainbow Kids Play Therapy",
-        "order": 10
+        "order": 10,
+        "meta_descr": "Rainbow Kids Play Therapy is a place of hope and healing for children. Children who suffer from social, emotional or behavioral difficulties can seek help from play therapists instead of psychiatrists or psychologists. Research shows that 77% - 84% of children show a positive change through the use of creative arts and play therapy when delivered by trained play therapists. Our play therapist is certified by Play Therapy International and have dealt with different kinds of children issues. She is also also a trained counselor who knows how to advise parents how to support their children at home. "
       },
       "components": [
         {
@@ -1551,7 +1553,7 @@
       "settings": {
         "title": "Contact Us - Rainbow Kids Play Therapy",
         "order": 8,
-        "meta_descr": ""
+        "meta_descr": "Rainbow Kids Play Therapy is a place of hope and healing for children. Children who suffer from social, emotional or behavioral difficulties can seek help from play therapists instead of psychiatrists or psychologists. Research shows that 77% - 84% of children show a positive change through the use of creative arts and play therapy when delivered by trained play therapists. Our play therapist is certified by Play Therapy International and have dealt with different kinds of children issues. She is also also a trained counselor who knows how to advise parents how to support their children at home. "
       },
       "components": [
         {
@@ -2070,7 +2072,7 @@
       "settings": {
         "title": "Fees - Rainbow Kids Play Therapy",
         "order": 6,
-        "meta_descr": ""
+        "meta_descr": "Rainbow Kids Play Therapy is a place of hope and healing for children. Children who suffer from social, emotional or behavioral difficulties can seek help from play therapists instead of psychiatrists or psychologists. Research shows that 77% - 84% of children show a positive change through the use of creative arts and play therapy when delivered by trained play therapists. Our play therapist is certified by Play Therapy International and have dealt with different kinds of children issues. She is also also a trained counselor who knows how to advise parents how to support their children at home. "
       },
       "components": [
         {
@@ -2533,7 +2535,7 @@
           },
           "_name": "image3",
           "_sourceTheme": "mobirise5",
-          "_customHTML": "<section class=\"image3\" group=\"Images & Videos\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" name=\"textWidth\" title=\"Image\" min=\"4\" max=\"12\" step=\"1\" value=\"12\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"../_images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-12 col-lg-{{textWidth}}\">\n                <div class=\"image-wrapper\">\n                    <img src=\"@PROJECT_PATH@/assets/images/pricing-1-1280x720.png\" alt=\"Mobirise\">\n                    <p class=\"mbr-description mbr-fonts-style mt-2 align-center\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-description\">\n                        Image Description</p>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"image3\" group=\"Images & Videos\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-fullscreen': fullScreen,\n                    'mbr-parallax-background': bg.parallax}\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Screen\" name=\"fullScreen\">\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\">\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"6\" condition=\"fullScreen == false\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\" condition=\"fullScreen == false\">\n        <input type=\"range\" name=\"textWidth\" title=\"Image\" min=\"4\" max=\"12\" step=\"1\" value=\"12\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Text\" name=\"showText\">\n        <header>Background</header>\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Image\" value=\"../_images/background1.jpg\">\n            <input type=\"color\" title=\"Color\" value=\"#ffffff\" selected>\n            <input type=\"video\" title=\"Video\" value=\"https://vimeo.com/428046504\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\" checked>\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#ffffff\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.7\" condition=\"overlay && bg.type !== 'color'\">\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-12 col-lg-{{textWidth}}\">\n                <div class=\"image-wrapper\">\n                    <img src=\"@PROJECT_PATH@/assets/images/pricing-3-1280x720.png\" alt=\"Mobirise\">\n                    <p class=\"mbr-description mbr-fonts-style mt-2 align-center\" mbr-theme-style=\"display-4\" mbr-if=\"showText\" data-app-selector=\".mbr-description\">\n                        Image Description</p>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "skCKa1OU2K",
           "_anchor": "image3-21",
           "_protectedParams": [],
@@ -2586,7 +2588,7 @@
       "settings": {
         "title": "Safe Management Measures - Rainbow Kids Play Therapy",
         "order": 2,
-        "meta_descr": ""
+        "meta_descr": "Rainbow Kids Play Therapy is a place of hope and healing for children. Children who suffer from social, emotional or behavioral difficulties can seek help from play therapists instead of psychiatrists or psychologists. Research shows that 77% - 84% of children show a positive change through the use of creative arts and play therapy when delivered by trained play therapists. Our play therapist is certified by Play Therapy International and have dealt with different kinds of children issues. She is also also a trained counselor who knows how to advise parents how to support their children at home. "
       },
       "components": [
         {
@@ -3111,7 +3113,7 @@
       "settings": {
         "title": "Location - Rainbow Kids Play Therapy",
         "order": 4,
-        "meta_descr": ""
+        "meta_descr": "Rainbow Kids Play Therapy is a place of hope and healing for children. Children who suffer from social, emotional or behavioral difficulties can seek help from play therapists instead of psychiatrists or psychologists. Research shows that 77% - 84% of children show a positive change through the use of creative arts and play therapy when delivered by trained play therapists. Our play therapist is certified by Play Therapy International and have dealt with different kinds of children issues. She is also also a trained counselor who knows how to advise parents how to support their children at home. "
       },
       "components": [
         {
@@ -3757,7 +3759,7 @@
       "settings": {
         "main": true,
         "title": "Home - Rainbow Kids Play Therapy",
-        "meta_descr": "A place of hope and healing for children.",
+        "meta_descr": "Rainbow Kids Play Therapy is a place of hope and healing for children. Children who suffer from social, emotional or behavioral difficulties can seek help from play therapists instead of psychiatrists or psychologists. Research shows that 77% - 84% of children show a positive change through the use of creative arts and play therapy when delivered by trained play therapists. Our play therapist is certified by Play Therapy International and have dealt with different kinds of children issues. She is also also a trained counselor who knows how to advise parents how to support their children at home. ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
