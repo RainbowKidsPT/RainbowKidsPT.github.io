@@ -7,17 +7,7 @@
     "siteFonts": [],
     "theme": {},
     "currentPage": "index.html",
-    "versionPublish": "5.3.10",
-    "imageResize": true,
-    "uniqCompNum": 0,
-    "favicon": false,
-    "mbrsiteDomain": "rn4axky783",
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
-    "cookiesAlert": false,
-    "gdpr": false
+    "versionPublish": "5.3.10"
   },
   "pages": {
     "index.html": {
