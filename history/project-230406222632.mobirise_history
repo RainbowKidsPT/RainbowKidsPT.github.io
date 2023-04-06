@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Rainbow Kids Play Therapy",
-    "currentPage": "index.html",
+    "currentPage": "location.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -61,6 +61,8 @@
     "mbrsiteDomain": "cevonmksos",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "google-analytics": "<link rel=\"canonical\" href=\"https://rainbowkidspt.com/\" />\n<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-C6T127MDWZ\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-C6T127MDWZ');\n</script>",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
     "usedWebp": true
   },
   "pages": {
